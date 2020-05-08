@@ -2,7 +2,7 @@
 ## Own Approach
 
 ### Assignment
-Write down things to be done when to implement a file / a directory.
+Write down things to be done when to implement a file system.
 Take into account that you have only the operations ReadBlock() and WriteBlock() on the disk.
 
 ### Required Tasks
@@ -28,8 +28,15 @@ Take into account that you have only the operations ReadBlock() and WriteBlock()
 
 ### Grading Categories
 #### Own Solution
+| Category | Description |
+| --- | --- |
+| Elaboration | How detailed is the idea explained? Are all aspects well covered? Did the student think of e.g., free blocks, directories, performance considerations, etc? |
+| Idea | How interesting is the solution? Does it have interesting aspects? |
 
 #### Remarks
+| Category | Description |
+| --- | --- |
+| Elaboration | How detailed did the student analyse the other solutions? |
 
 #### Common Solution
 | Category | Description |
