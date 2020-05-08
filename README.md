@@ -17,11 +17,30 @@ Take into account that you have only the operations ReadBlock() and WriteBlock()
 1. Make teams of 4
 1. Accept the assignment (group assignment) and give your group a name having the last name of all team mates.
 1. Clone the repository on your local machine.
-1. Create a directory named <your_last_name>.md (e.g. `bauer`).
-1. Create a markdown file named <your_last_name>.md (e.g., `bauer.md`) and store it in your directory.
+1. Create a directory named <your last name>_<first letter of your first name> (e.g. `bauer_p`).
+1. Create a markdown file named <your last name>.md (e.g., `bauer.md`) and store it in your directory.
 1. Jot down your ideas quickly (30 minutes). You may also do drawings and store them in your directory.
 1. Commit your files, pull, push.
 1. Open the files of your team mates and add remarks to an own file called with your own name (e.g., `remarks_bauer.md`). Call a mate if you don't understand things (max. 5 minutes for each).
 1. Pull push.
 1. Join your team mates in a voice channel and discuss your ideas. Agree on a common solution and write it down in a new file (`final_solution/final_solution.md`).
 1. Push
+
+### Grading Categories
+#### Own Solution
+
+#### Remarks
+
+#### Common Solution
+| Category | Description |
+| --- | --- |
+| Understandable | How well understandable and how well structured is the description. Images and drawings available to support understanding? |
+| Create | Quality of solution for creating a file. Is the group aware of flaws in their solution? |
+| Extend | Quality of solution for extending a file. Is the group aware of flaws in their solution? |
+| Sequential | Quality of solution for reading a file sequentially. Is the group aware of flaws in their solution? |
+| Random | Quality of solution for navigating in a file (implementation of seek). Is the group aware of flaws in their solution? |
+| Reduce | Quality of solution for reducing a file size. Is the group aware of flaws in their solution? |
+| Delete | Quality of solution for deleting a file.. Is the group aware of flaws in their solution? |
+| Root Dir | Is the implementation of a root directory explained? |
+| General Dirs | Is the implementation of general directories explained? |
+| Free Blocks | Is the management of free blocks explained? |
