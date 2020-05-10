@@ -14,17 +14,21 @@ Take into account that you have only the operations ReadBlock() and WriteBlock()
 - What has to be done when a file is deleted?
 
 ### Procedure
-1. Make teams of 4
-1. Accept the assignment (group assignment) and give your group a name having the last name of all team mates.
-1. Clone the repository on your local machine.
-1. Create a directory named <your last name>_<first letter of your first name> (e.g. `bauer_p`).
-1. Create a markdown file named <your last name>.md (e.g., `bauer.md`) and store it in your directory.
-1. Jot down your ideas quickly (30 minutes). You may also do drawings and store them in your directory.
-1. Commit your files, pull, push.
-1. Open the files of your team mates and add remarks to an own file called with your own name (e.g., `remarks_bauer.md`). Call a mate if you don't understand things (max. 5 minutes for each).
-1. Pull push.
-1. Join your team mates in a voice channel and discuss your ideas. Agree on a common solution and write it down in a new file (`final_solution/final_solution.md`).
-1. Push
+1. Preparation
+    1. Make teams of 4
+    1. Accept the assignment (group assignment) and give your group a name having the last name of all team mates.
+    1. Clone the repository on your local machine.
+    1. Create a directory named <your_last_name>.md (e.g. `bauer`).
+1. Think
+    1. Create a markdown file named <your_last_name>.md (e.g., `bauer.md`) and store it in your directory.
+    1. Jot down your ideas quickly (30 minutes). You may also do drawings and store them in your directory.
+    1. Commit your file, pull, push.
+1. Share
+    1. Open the files of your team mates, analyse their solutions, and add remarks to an own file called with your own name (e.g., `remarks_bauer.md`). Call a mate if you don't understand things (max. 5 minutes for each).
+    1. Pull push.
+1. Integrate
+    1. Join your team mates in a voice channel and discuss your ideas. Agree on a common solution and write it down in a new file (`final_solution/final_solution.md`).
+    1. Push
 
 ### Grading Categories
 #### Own Solution
